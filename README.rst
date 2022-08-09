@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FClare-hash%2Fdwave-ocean-sdk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FClare-hash%2Fdwave-ocean-sdk?ref=badge_shield)
+
 .. image:: docs/_static/Ocean_SDK_Banner.png
 
 .. image:: https://img.shields.io/pypi/v/dwave-ocean-sdk.svg
@@ -121,3 +123,7 @@ License
 =======
 
 Released under the Apache License 2.0. See LICENSE file.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FClare-hash%2Fdwave-ocean-sdk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FClare-hash%2Fdwave-ocean-sdk?ref=badge_large)
